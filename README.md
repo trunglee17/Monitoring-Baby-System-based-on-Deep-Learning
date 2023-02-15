@@ -1,6 +1,6 @@
 Gmail: trung.le170920@gmail.com
 
-Link Demo: 
+Link Demo: https://www.youtube.com/watch?v=UfgYO6-Wxq8
 
 # Monitoring-Baby-System-based-on-Deep-Learning
 
